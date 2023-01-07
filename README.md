@@ -1,10 +1,5 @@
 # Human-Emotion-and-Gesture-Detector
-Understanding how to build a human emotion and gesture detector with Deep Learning from scratch.
-
-Check out these articles for a complete understanding of the project and the code:
-
-https://towardsdatascience.com/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb
-https://towardsdatascience.com/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023
+Understanding how to build a human emotion and gesture detector with Deep Learning .
 
 1. Data pre-processing consists of all the steps for extraction of images from the fer2013.csv file which can be obtained from Kaggle.
 2. EDA consists of the complete Exploratory Data Analysis for both the emotions and gestures model. 
